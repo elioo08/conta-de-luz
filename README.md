@@ -12,7 +12,7 @@
       -  digite o que for solicitado
       -  Verifique o arquivo .txt gerado
       
-   - **_Com o vscode_**
+   - **_Com o [vscode](https://code.visualstudio.com/)_**
       -  Baixe o arquivo .zip
       -  Extraia o arquivo baixado
       -  Clique com o botão direito e em abrir com o code.
@@ -32,5 +32,7 @@
 
 ## Recomendações:
  - Utilize o [visual studio code](https://code.visualstudio.com/) com a extensão do python para executar esse programa.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==--=-==--==-=-=-
 
 _Criador do programa: Elio Benedicto Casagrande Costa_
