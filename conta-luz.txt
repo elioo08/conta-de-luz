@@ -1,0 +1,14 @@
+ VALOR DE UMA CONTA DE LUZ 
+--------------------------- 
+             
+ Consumo: 156.00 kWh 
+             
+ Valor de cada kwh: R$ 0.76 
+                
+ Taxa de Iluminacao Publica: R$ 26.99 
+                
+ Valor com impostos:  R$ 179.95 
+                
+ Valor sem impostos:  R$ 118.57 
+             
+ Valor final: R$ 206.94
